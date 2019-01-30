@@ -26,12 +26,10 @@ linkedin_username: julien-regnault
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
-repository: Philipid3s/my-blog
-github: [metadata]
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
