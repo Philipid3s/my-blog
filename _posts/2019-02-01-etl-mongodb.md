@@ -11,7 +11,8 @@ The raw data loaded in the JSON file have this format:
 ```javascript
 {
     "title":"1940 Deutsche Lufthansa Ju 90 crash",     
-    "gps":"51.2810°N 14.0400°E","url":"https://en.wikipedia.org/wiki/1940_Deutsche_Lufthansa_Ju_90_crash"
+    "gps":"51.2810°N 14.0400°E",
+    "url":"https://en.wikipedia.org/wiki/1940_Deutsche_Lufthansa_Ju_90_crash"
 }
 ```
 
