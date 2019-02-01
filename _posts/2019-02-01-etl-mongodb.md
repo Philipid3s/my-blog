@@ -23,11 +23,12 @@ After transformation, the format of each record will be this one:
 {
     "title":"1940 Deutsche Lufthansa Ju 90 crash",
     "latitude":"51.2810",
-    "longitude":"14.0400","url":"https://en.wikipedia.org/wiki/1940_Deutsche_Lufthansa_Ju_90_crash"
+    "longitude":"14.0400",
+    "url":"https://en.wikipedia.org/wiki/1940_Deutsche_Lufthansa_Ju_90_crash"
 }
 ```
 
-This JSON file is then loaded in a MongoDB database using the library [mangoose](https://mongoosejs.com/).
+This JSON file is then loaded in a MongoDB database using the JS library [mongoose](https://mongoosejs.com/).
 
 The longitude and latitude are loaded in a **Point-type structure**:
 
