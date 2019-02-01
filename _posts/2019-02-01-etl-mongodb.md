@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ETL Wikipedia data"
+title:  "ETL: from Wikipedia to MongoDB"
 date:   2019-02-01 17:00:00 +0800
 categories: javascript web-scraping etl mongodb
 ---
