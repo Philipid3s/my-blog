@@ -49,4 +49,4 @@ sites.forEach(element => {
 });
 ```
 
-Next step, the creation a **REST API**.
+Next step, the creation of a **REST API**.
