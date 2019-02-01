@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ETL Wikipedia data"
-date:   2019-02-02 17:00:00 +0800
+date:   2019-02-01 17:00:00 +0800
 categories: javascript web-scraping etl mongodb
 ---
 After having extracted the raw data from wikipedia in a Json file, I need now to clean up the data before a final loading in MongoDB ([mLab](https://mlab.com/)).
