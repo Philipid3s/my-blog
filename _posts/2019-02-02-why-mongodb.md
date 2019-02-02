@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why MongoDB ?"
+title:  "Why MongoDB?"
 date:   2019-02-02 17:10:00 +0800
 categories: javascript database mongodb nodejs
 ---
