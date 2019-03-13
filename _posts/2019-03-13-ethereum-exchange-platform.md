@@ -17,10 +17,10 @@ My goal was to create a (sort of) gold bars exchange platform where the transact
 
 After having checked the solidity code in the platform [Remix](https://remix.ethereum.org). I have created a combined front-end / back-end web application (server-side rendering) to test my smart contract. My prototype is an implementation of this [Next.js](https://nextjs.org/), [Redux](https://redux.js.org) boilerplate published [here](https://github.com/tomsoderlund/nextjs-express-mongoose-crudify-boilerplate) on github.
 
-I still used [MongoDB](https://www.mongodb.com/) to store the list of the smart contract created on the blockchain. The purpose is simply to make my front-end app more responsive. But at the end, I will maybe switch to a full blockchain storage solution. 
+I still use [MongoDB](https://www.mongodb.com/) to store the list of the smart contract created on the blockchain. The purpose is simply to make my front-end app more responsive. But at the end, I will maybe switch to a full blockchain storage solution. 
 
 My PoC is published on Heroku: [https://gold-bars-exchange.herokuapp.com/](https://gold-bars-exchange.herokuapp.com/).
 
-... I just have this interrogation: Is it better to store each asset in a independant contract ? or should I store all my assets in a single mapping structure of the same contract ?
-I still don't have the answer...
+... I just have this interrogation: Is it better to store each asset as an independant contract on the blockchain ? or should I store all my assets in a single mapping structure of the same smart contract ?
+So far I don't have the answer...
 
