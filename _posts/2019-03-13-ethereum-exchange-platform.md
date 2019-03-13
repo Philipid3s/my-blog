@@ -11,7 +11,7 @@ categories: ethererum dapp smart contract
 >
 > -- <cite>Nick Szabo (1996)</cite>
 
-[Ethereum] (https://www.ethereum.org/) is a decentralized platform for application. [Solidity] (https://solidity.readthedocs.io/en) is an object-oriented, high-level language for the implementation of smart contracts.
+[Ethereum](https://www.ethereum.org/) is a decentralized platform for application. [Solidity](https://solidity.readthedocs.io/en) is an object-oriented, high-level language for the implementation of smart contracts.
 
 My goal was to create a (sort of) gold bars exchange platform where the transactions will be stored on the Ethereum platform. My prototype has been inspired by this sample published on the Azure Blockchain-Workbench github: [Azure simple marketplace](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/application-and-smart-contract-samples/simple-marketplace). 
 
